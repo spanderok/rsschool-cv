@@ -1,0 +1,12 @@
+body {
+  padding: 0;
+  font-family: "Arial", sans-serif;
+  font-size: 14px;
+  line-height: 18px;
+  color: #000000;
+  background: #ffffff url("img/keks-background.jpg") no-repeat 50% 0;
+}
+.ava, h1 {
+  padding-left: 30px;
+
+}
