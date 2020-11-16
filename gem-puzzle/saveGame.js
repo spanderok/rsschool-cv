@@ -85,6 +85,7 @@ loaderValueSave(2);
  };
  //saveGame();
  
+ 
 
  //функция загрузки игры
  function loadGame(index) {

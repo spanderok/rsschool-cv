@@ -130,6 +130,7 @@ let cell = document.querySelectorAll('.cell');
 };
 
 
+
 newGameButton.addEventListener("click", reset);
 
 
