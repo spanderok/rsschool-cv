@@ -11,6 +11,7 @@ let btnsGoback = document.getElementsByClassName('go_back');
 let itemsBestScore = document.querySelectorAll('.best-score-li');
 
 
+
  //console.log(saves[1]);
 
 //вызов меню
@@ -84,4 +85,5 @@ arr.map(i => i.addEventListener('click', () => {
     }
 
 } ));
+
 

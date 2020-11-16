@@ -93,6 +93,12 @@ loaderValueSave(2);
     let returnСollectionSavedGames = JSON.parse(localStorage.getItem("SavedGames"));
     savedGame = returnСollectionSavedGames[key];
       console.log('saved game',savedGame);
+
+      //убираем пример с картинкой
+      let imageExample = document.querySelector('.image-example');
+      imageExample.style.width = 0 + 'px';
+      imageExample.style.height = 0 + 'px';
+  
     
 
  //обнулили время действующее
