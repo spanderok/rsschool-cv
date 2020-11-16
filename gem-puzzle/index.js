@@ -137,6 +137,11 @@ function reset() {
     overlay.classList.add("hidden");
     main.classList.add("hidden");
 
+     //убираем пример с картинкой
+     let imageExample = document.querySelector('.image-example');
+     imageExample.style.width = 0 + 'px';
+     imageExample.style.height = 0 + 'px';
+
      sec = 0;
      min = 0;
      currentTime = 0;
