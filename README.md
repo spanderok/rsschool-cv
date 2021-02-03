@@ -1,2 +1,2 @@
-#REST API with Express & MongoDB
+REST API with Express & MongoDB
 
