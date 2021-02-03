@@ -1,4 +1,2 @@
-# RESTful API
-Used MongoDB, express, typescript
-
+#REST API with Express & MongoDB
 
